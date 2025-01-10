@@ -376,3 +376,4 @@ autograder assignment. Your score on the autograder will be your score for the a
 It is recommended that you only submit to the autograder once all of the tests are passing locally.
 
 ## Acknowledgement
+Thanks Rohan Kumar and Elam Day-Friedland for authorizing the lab.
