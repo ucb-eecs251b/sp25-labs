@@ -360,7 +360,7 @@ Creating a fabrication-ready design involves systematically reducing violations 
 necessary until the number of violations is small enough to fix by hand.
 
 > [!IMPORTANT]
-> **Question 15.** The design has a lot of errors corresponding to rule `m3.6`. 
+> **Question 15.** The design has a lot of errors corresponding to rule `m2.2`. 
 > Double click on one instance of the error and 
 > submit a screenshot of both the result you selected and the corresponding geometry in the layout viewer.
 >
