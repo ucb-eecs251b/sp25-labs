@@ -856,7 +856,7 @@ In the latter file, scroll down to the part that starts with
 `MACRO sky130_fd_sc_hd__dfxtp_1`.
 
 > [!IMPORTANT]
-> **Question 21.** Compare the LEF you generated to the LEF provided in the PDK
+> **Question 22.** Compare the LEF you generated to the LEF provided in the PDK
 > by opening both LEFs in a text editor (e.g. `vim`) and looking for differences.
 > Identify at least 3 differences. Would the LEF you generated allow P&R
 > tools to place your DFF into a `unithd` site?
@@ -865,11 +865,11 @@ In the latter file, scroll down to the part that starts with
 > and think about what might cause the difference.
 >
 >
-> **Question 22.** Notice how the LEF says `USE CLOCK` for the `CLK` pin.
+> **Question 23.** Notice how the LEF says `USE CLOCK` for the `CLK` pin.
 > How did Abstract know it's a clock pin, and what would we do differently to make it just a signal?
 >
 >
-> **Question 23.** The `OBS` section contains our detailed obstructions. What would it look like
+> **Question 24.** The `OBS` section contains our detailed obstructions. What would it look like
 > if instead we did COVER for layer met1? Why might this pose problems for us in
 > P&R? What about COVER for layer via?
 
@@ -887,7 +887,7 @@ Finally, in the Virtuoso library, for the `custom_dff_R` cell, there is now an
 `abstract` view. We can open this in the Virtuoso layout editor!
 
 > [!IMPORTANT]
-> **Question 24.** Submit a screenshot of the abstract view of the flip-flop, as viewed in Virtuoso.
+> **Question 25.** Submit a screenshot of the abstract view of the flip-flop, as viewed in Virtuoso.
 
 ## Adding an extra library in Hammer
 
