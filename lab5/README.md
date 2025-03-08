@@ -233,3 +233,12 @@ Go to `power-par-rundir/`, you will see that Voltus runs both vectorless and vec
 
 > [!IMPORTANT]
 > **Question 10.** Compare the vectorless and vector-based power in TT corner for setup time. How does the benchmark's overall switching power compare to the vectorless assumption?
+
+
+## Conclusion
+
+In this lab, you explored power and rail analysis using Cadence Voltus including both vectorless and vector-based power analysis. You also learned about the power grid network and how it affects the power consumption of the design.
+
+## Acknowledgements
+
+Thanks Rohan Kumar and Elam Day-Friedland for authorizing the lab.
